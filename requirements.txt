@@ -1,8 +1,7 @@
-numpy
-pandas
 fastapi
-uvicorn
+pandas 
+numpy
 pyarrow
-matplotlib
-seaborn
-scikit-learn
+typing
+logging
+sklearn.metrics.pairwise
