@@ -15,25 +15,25 @@ El objetivo principal fue completar varios *endpoints* junto con un modelo de re
 ## Componentes del Proyecto
 
 
-1. [**Análisis Exploratorio de Datos (EDA)**](#eda)
+1. [**Análisis Exploratorio de Datos (EDA)**](EDA.ipynb)
    - Realización de estadísticas descriptivas.
    - Identificación y manejo de valores atípicos.
    - Visualización de distribuciones y correlaciones.
    - Interpretación de patrones y tendencias.
 
-2. [**Transformación, Extracción y Carga (ETL)**](#etl)
+2. [**Transformación, Extracción y Carga (ETL)**](ETL.ipynb)
    - Limpieza de datos para abordar problemas de calidad.
    - Integración de datos de múltiples fuentes.
    - Aplicación de transformaciones para estructurar los datos.
    - Carga eficiente en la base de datos.
 
-3. [**Modelado de Machine Learning**](#machine-learning)
+3. [**Modelado de Machine Learning**](Model.ipynb)
    - Selección y entrenamiento de modelos predictivos.
    - Evaluación de la precisión y rendimiento del modelo.
    - Ajuste de hiperparámetros para optimizar el rendimiento.
    - Implementación de un sistema de recomendación.
 
-4. [**Generación de Gráficos y Análisis**](#graficos)
+4. [**Generación de Gráficos y Análisis**]
    - Creación de visualizaciones efectivas.
    - Análisis de patrones y tendencias a través de gráficos.
    - Presentación clara de los resultados del modelo.
