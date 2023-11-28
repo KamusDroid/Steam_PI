@@ -1,4 +1,4 @@
-[![Fondo]('./assets/ai.jpg')]
+[![Fondo](./assets/ai.jpg)]
 
 # Walter Matías Amengal
 
