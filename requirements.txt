@@ -1,7 +1,6 @@
-fastapi
-pandas 
 numpy
+pandas
+fastapi
+uvicorn
 pyarrow
-typing
-logging
-sklearn.metrics.pairwise
+scikit-learn
