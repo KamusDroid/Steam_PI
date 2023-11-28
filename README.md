@@ -48,7 +48,7 @@ Agradecemos tu participación en este fascinante viaje de aprendizaje en el mund
 
 
 
-##VIDEO [Link de video](https://youtu.be/1p_b2Fk8ny8)
+## VIDEO [Link de video](https://youtu.be/1p_b2Fk8ny8)
 
-##API [Link de la API](https://steampi-production.up.railway.app/)
+## API [Link de la API](https://steampi-production.up.railway.app/)
   
