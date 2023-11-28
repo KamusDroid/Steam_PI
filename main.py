@@ -18,7 +18,7 @@ async def inicio():
 <html>
 
 <head>
-    <title>API Steam</title>
+    <title>Proyecto Individual - Henry</title>
     <style>
         body {
             font-family: Arial, sans-serif;
